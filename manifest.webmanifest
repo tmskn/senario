@@ -1,0 +1,16 @@
+{
+  "name": "シナリオ手帖",
+  "short_name": "シナリオ手帖",
+  "description": "TRPGのシナリオを書くための手帖",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf0f2",
+  "theme_color": "#1d6b63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
